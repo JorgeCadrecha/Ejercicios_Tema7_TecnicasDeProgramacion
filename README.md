@@ -1,7 +1,7 @@
 # Ejercicios_Tema7_TecnicasDeProgramacion
 
 ## Nota:
-Mi repositorio es:
+Mi repositorio es: https://github.com/JorgeCadrecha/Ejercicios_Tema7_TecnicasDeProgramacion.git
 
 ## Enunciado
 ### 1. Los dados
